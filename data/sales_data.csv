@@ -1,0 +1,49 @@
+Date,Product,Category,Sales,Profit,Quantity,Region
+2025-01-03,Wireless Mouse,Technology,9250,1480.0,2,Mysuru
+2025-01-08,Desk Organizer,Office Supplies,1040,260.0,4,Mangaluru
+2025-01-15,Desk Lamp,Furniture,5280,1003.2,2,Hubballi
+2025-01-23,Backpack,Accessories,2175,478.5,4,Bengaluru
+2025-02-03,Monitor,Technology,10600,1696.0,3,Mangaluru
+2025-02-08,Printer Paper,Office Supplies,1300,325.0,5,Hubballi
+2025-02-15,Ergonomic Chair,Furniture,4320,820.8,2,Bengaluru
+2025-02-23,Water Bottle,Accessories,2770,609.4,5,Mysuru
+2025-03-03,Headphones,Technology,9650,1544.0,2,Hubballi
+2025-03-08,Notebook Pack,Office Supplies,1560,390.0,6,Bengaluru
+2025-03-15,Study Desk,Furniture,5310,1008.9,2,Mysuru
+2025-03-23,Phone Stand,Accessories,2265,498.3,4,Mangaluru
+2025-04-03,Laptop,Technology,11000,1760.0,3,Bengaluru
+2025-04-08,Gel Pens,Office Supplies,1395,348.75,6,Mysuru
+2025-04-15,Bookshelf,Furniture,6300,1197.0,3,Mangaluru
+2025-04-23,USB Hub,Accessories,2860,629.2,5,Hubballi
+2025-05-03,Wireless Mouse,Technology,10050,1608.0,2,Mysuru
+2025-05-08,Desk Organizer,Office Supplies,1655,413.75,7,Mangaluru
+2025-05-15,Desk Lamp,Furniture,5340,1014.6,2,Hubballi
+2025-05-23,Backpack,Accessories,3455,760.1,6,Bengaluru
+2025-06-03,Monitor,Technology,11400,1824.0,3,Mangaluru
+2025-06-08,Printer Paper,Office Supplies,1490,372.5,6,Hubballi
+2025-06-15,Ergonomic Chair,Furniture,6330,1202.7,3,Bengaluru
+2025-06-23,Water Bottle,Accessories,2950,649.0,5,Mysuru
+2025-07-03,Headphones,Technology,12750,2040.0,3,Hubballi
+2025-07-08,Notebook Pack,Office Supplies,1750,437.5,7,Bengaluru
+2025-07-15,Study Desk,Furniture,5370,1020.3,2,Mysuru
+2025-07-23,Phone Stand,Accessories,3545,779.9,6,Mangaluru
+2025-08-03,Laptop,Technology,11800,1888.0,3,Bengaluru
+2025-08-08,Gel Pens,Office Supplies,2010,502.5,8,Mysuru
+2025-08-15,Bookshelf,Furniture,6360,1208.4,3,Mangaluru
+2025-08-23,USB Hub,Accessories,3040,668.8,5,Hubballi
+2025-09-03,Wireless Mouse,Technology,13150,2104.0,3,Mysuru
+2025-09-08,Desk Organizer,Office Supplies,1845,461.25,7,Mangaluru
+2025-09-15,Desk Lamp,Furniture,7350,1396.5,3,Hubballi
+2025-09-23,Backpack,Accessories,3635,799.7,6,Bengaluru
+2025-10-03,Monitor,Technology,12200,1952.0,3,Mangaluru
+2025-10-08,Printer Paper,Office Supplies,2105,526.25,8,Hubballi
+2025-10-15,Ergonomic Chair,Furniture,6390,1214.1,3,Bengaluru
+2025-10-23,Water Bottle,Accessories,4230,930.6,7,Mysuru
+2025-11-03,Headphones,Technology,13550,2168.0,3,Hubballi
+2025-11-08,Notebook Pack,Office Supplies,1940,485.0,8,Bengaluru
+2025-11-15,Study Desk,Furniture,7380,1402.2,3,Mysuru
+2025-11-23,Phone Stand,Accessories,3725,819.5,6,Mangaluru
+2025-12-03,Laptop,Technology,14900,2384.0,4,Bengaluru
+2025-12-08,Gel Pens,Office Supplies,2200,550.0,9,Mysuru
+2025-12-15,Bookshelf,Furniture,6420,1219.8,3,Mangaluru
+2025-12-23,USB Hub,Accessories,4320,950.4,7,Hubballi
